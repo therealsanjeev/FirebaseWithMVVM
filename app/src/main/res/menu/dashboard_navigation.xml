@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:enabled="true"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:enabled="true"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"
+        />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_dashboard_quick_store"-->
+<!--        android:icon="@drawable/ic_quick_order_new"-->
+<!--        android:enabled="true"-->
+<!--        android:title="@string/navigation_dashboard_quick_order" />-->
+
+
+
+<!--    android:icon="@drawable/ic_store"-->
+<!--    android:icon="@drawable/ic_dashboard_products"-->
+<!--    android:icon="@drawable/ic_home"-->
+<!--    android:icon="@drawable/ic_dashboard_profile"-->
+
+</menu>
